@@ -1,3 +1,6 @@
+# [POC] Clojure multimethods as react components using re-agent
+
+This is a small POC to validate if clojure multimethods can be used as a React components thought re-agent.
 
 ### Development mode
 ```
